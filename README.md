@@ -1,7 +1,7 @@
 # PyRadioPlayer
 
 "PyRadioPlayer" is a internet radio player with Python. Mainly created by ChatGPT.
-https://user-images.githubusercontent.com/68320693/232299608-3cdca985-f59b-41c9-ab78-43c8edebe1a7.png
+![](https://user-images.githubusercontent.com/68320693/232299608-3cdca985-f59b-41c9-ab78-43c8edebe1a7.png)
 
 # Requirement
 
